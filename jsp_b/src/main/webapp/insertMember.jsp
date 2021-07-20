@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>게시물 등록</h2>
-<hr>
-
+<h2>멤버 추가</h2>
 </body>
 </html>
